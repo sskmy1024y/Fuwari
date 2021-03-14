@@ -137,6 +137,11 @@ h1 {
   font-size: 2em;
 }
 
+h1 > small {
+  padding: 0 16px;
+  font-size: 0.42em;
+}
+
 /**
  * Address styling not present in IE 8/9.
  */

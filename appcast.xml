@@ -1,15 +1,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Fuwari changelog</title>
-    <link>https://fuwari-app.com/appcast.xml</link>
+    <title>Fuwari(sskmy1024y) changelog</title>
+    <link>https://sskmy1024y.github.io/Fuwari/appcast.xml</link>
     <description>Fuwari update changelog.</description>
     <item>
-      <title>Fuwari 0.5.1</title>
-      <sparkle:releaseNotesLink xml:lang="en">https://fuwari-app.com/releasenotes/0.5.1.en.html</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="ja">https://fuwari-app.com/releasenotes/0.5.1.ja.html</sparkle:releaseNotesLink>
+      <title>Fuwari (sskmy1024y) 0.6.0-sskmy</title>
+      <sparkle:releaseNotesLink xml:lang="en">https://sskmy1024y.github.io/Fuwari/releasenotes/0.6.0.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ja">https://sskmy1024y.github.io/Fuwari/releasenotes/0.6.0.ja.html</sparkle:releaseNotesLink>
       <pubDate>Sun, 15 Jul 2018 19:54:52 +0900</pubDate>
-      <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/kentya6/Fuwari/releases/download/v0.5.1/Fuwari.zip" sparkle:version="0.51" sparkle:shortVersionString="0.5.1" length="6227329" type="application/octet-stream" sparkle:dsaSignature="MC0CFDzldzlb6mzEYLSVsS9jg17mgYjzAhUAgAOqu0ZwDTVVFYBo3VQrO9RHkLk="/>
+      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/sskmy1024y/Fuwari/releases/download/v0.5.12/Fuwari.zip" sparkle:version="0.60" sparkle:shortVersionString="0.6.0" type="application/octet-stream" sparkle:edSignature="wvAeagpB8H8mU1C6XVAf3rtMYYTp5bwcc/NQdstf43gi8mL33Y0gsPTd8rA30lPpYhvsRqNoJv0/75TlNC/XAw==" length="6124842"/>
     </item>
   </channel>
 </rss>
