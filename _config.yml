@@ -1,0 +1,16 @@
+title: Fuwari
+description: Floating screenshot like a sticky
+google_analytics: UA-144233156-1
+show_downloads: true
+theme: jekyll-theme-architect
+twitter:
+  username: sskmy1024r
+  card: summary_large_image
+social:
+  name: Sho YAMASHITA
+  links:
+    - https://twitter.com/sskmy1024r
+    - https://github.com/sskmy1024y
+
+plugins:
+  - jekyll-mentions
